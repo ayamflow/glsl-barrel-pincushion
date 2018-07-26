@@ -13,7 +13,7 @@ Adapted from [this shadertoy](https://www.shadertoy.com/view/lttXD4).
 npm i glsl-barrel-pincushion -S
 ```
 
-### Usagez :book:
+### Usage :book:
 
 #### barrelPincushion(vec2 st, float strength)
 strength > 0 for barrel distortion, strength < 0 for pincushion.
