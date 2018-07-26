@@ -1,0 +1,26 @@
+{
+  "name": "glsl-barrel-pincushion",
+  "version": "1.0.0",
+  "description": "Distort UV using barrel or pincushion",
+  "main": "barrel-pincushion.glsl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayamflow/glsl-barrel-pincushion.git"
+  },
+  "keywords": [
+    "glsl",
+    "distorstion",
+    "barrel",
+    "pincushion",
+    "fisheye"
+  ],
+  "author": "Florian Morel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayamflow/glsl-barrel-pincushion/issues"
+  },
+  "homepage": "https://github.com/ayamflow/glsl-barrel-pincushion#readme"
+}
