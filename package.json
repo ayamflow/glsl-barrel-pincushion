@@ -1,6 +1,6 @@
 {
   "name": "glsl-barrel-pincushion",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Distort UV using barrel or pincushion",
   "main": "barrel-pincushion.glsl",
   "scripts": {
